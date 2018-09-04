@@ -11,5 +11,5 @@ def about():
 
 
 
-run(host='https://vefforritun123.herokuapp.com/', debug=True)
+run(host='vefforritun123', debug=True)
 
